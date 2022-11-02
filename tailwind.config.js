@@ -3,15 +3,20 @@ module.exports = {
   content: [
     "./home-page.html",
     "./ragdoll.html",
+    "./szkocki.html",
   ],
   theme: {
     extend: {
       height: {
         '448px': '28rem',
       },
+      width: {
+        '510px': '31.875rem',
+      },
       maxWidth: {
         '870px': '870px',
         '500px': '500px',
+        '448px': '28rem',
       },
       colors: {
         'blue-gradient': '#1d457d',
