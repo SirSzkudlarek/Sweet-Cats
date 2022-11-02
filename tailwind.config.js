@@ -1,12 +1,17 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    "./home-page.html"
+    "./home-page.html",
+    "./ragdoll.html",
   ],
   theme: {
     extend: {
       height: {
         '448px': '28rem',
+      },
+      maxWidth: {
+        '870px': '870px',
+        '500px': '500px',
       },
       colors: {
         'blue-gradient': '#1d457d',
