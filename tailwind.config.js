@@ -1,9 +1,11 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    "./home-page.html",
+    "./index.html",
     "./ragdoll.html",
     "./szkocki.html",
+    "./amerykański-curl.html",
+    "./abisyński.html",
   ],
   theme: {
     extend: {
