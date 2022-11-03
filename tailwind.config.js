@@ -4,6 +4,8 @@ module.exports = {
     "./index.html",
     "./ragdoll.html",
     "./szkocki.html",
+    "./amerykański-curl.html",
+    "./abisyński.html",
   ],
   theme: {
     extend: {
