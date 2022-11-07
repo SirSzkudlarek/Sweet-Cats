@@ -9,6 +9,10 @@ module.exports = {
   ],
   theme: {
     extend: {
+      cursor: {
+        'paw': "url('../graphics/homepage/paw.png'), pointer",
+        'pawClaw': "url('../graphics/homepage/pawClaw.png'), pointer",
+      },
       height: {
         '448px': '28rem',
       },

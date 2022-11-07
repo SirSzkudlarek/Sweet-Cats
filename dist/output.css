@@ -597,6 +597,14 @@ video {
   width: 100%;
 }
 
+.cursor-paw {
+  cursor: url('../graphics/homepage/paw.png'), pointer;
+}
+
+.cursor-pawClaw {
+  cursor: url('../graphics/homepage/pawClaw.png'), pointer;
+}
+
 .flex-row {
   flex-direction: row;
 }
